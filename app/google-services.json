@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "781968720064",
+    "firebase_url": "https://admob-app-id-1946428455.firebaseio.com",
+    "project_id": "admob-app-id-1946428455",
+    "storage_bucket": "admob-app-id-1946428455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781968720064:android:29fe904652395e85",
+        "android_client_info": {
+          "package_name": "com.minyue.geminggequ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781968720064-snbm86meokerbl2fdg4qv282kujs706i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LvfbiDcrGzajPULWxRfJuXwjx07bmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781968720064:android:c5d991466d4faaf6",
+        "android_client_info": {
+          "package_name": "com.minyue.guzhengqu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781968720064-snbm86meokerbl2fdg4qv282kujs706i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LvfbiDcrGzajPULWxRfJuXwjx07bmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781968720064:android:49a59aeb5a962b36",
+        "android_client_info": {
+          "package_name": "com.minyue.pianosong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781968720064-snbm86meokerbl2fdg4qv282kujs706i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LvfbiDcrGzajPULWxRfJuXwjx07bmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781968720064:android:e3afc29b5df86d5f",
+        "android_client_info": {
+          "package_name": "com.xuefengjushi.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781968720064-snbm86meokerbl2fdg4qv282kujs706i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LvfbiDcrGzajPULWxRfJuXwjx07bmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781968720064:android:9879f5adea113dde",
+        "android_client_info": {
+          "package_name": "com.minyue.oldsongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781968720064-snbm86meokerbl2fdg4qv282kujs706i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LvfbiDcrGzajPULWxRfJuXwjx07bmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781968720064:android:f8feafdc0316cb59",
+        "android_client_info": {
+          "package_name": "com.minyue.kidssongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781968720064-snbm86meokerbl2fdg4qv282kujs706i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LvfbiDcrGzajPULWxRfJuXwjx07bmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
